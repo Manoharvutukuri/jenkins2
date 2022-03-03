@@ -4,7 +4,7 @@ public class Ex1{
     System.out.println("hii..Manohar");
     System.out.println("hii..Manohar");
     System.out.println("hii..Manohar1");
-    System.out.println("Mama..Manohar");
+    System.out.println("Mama..Manohar2");
   
 }
 }
